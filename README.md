@@ -1,5 +1,5 @@
 # CloudScript-Scraper
-idk what to name this, but it gets the cloudscript source and decompile it, pretty basic and don't mind the shit codes
+idk what to name this, but it gets the cloudscript source and decode it, pretty basic and don't mind the shit codes
 
 /*
 * The codes are shit and its just for a test
