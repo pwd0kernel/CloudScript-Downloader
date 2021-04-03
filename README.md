@@ -6,4 +6,4 @@ and lowkey useless. i am also using other peope libs because i'm too lazy so cre
 - macaron - Base64
 - Code-Building - requests
 
-Working as of: 3/27/2021
+<img alt="Going Green" src="https://img.shields.io/badge/Working as of: - 3/27/2021-0078D6?style=for-the-badge&color=green"/>
