@@ -1,4 +1,4 @@
-# CloudScript-Scraper
+# CloudScript-Scraper - Patched
 idk what to name this, but it gets the cloudscript source and decode it, pretty basic and don't mind the shit codes.The codes are shit and its just for a test and lowkey useless. i am also using other peope libs because i'm too lazy so credits to them.
 
 If you want to buy Lynx <a href="https://lynx.rip/purchase/">Click Here</a>, its a very good lua executor.
